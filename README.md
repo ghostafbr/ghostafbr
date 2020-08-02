@@ -1,4 +1,4 @@
-![](https://media.giphy.com/media/nIlgTxY29wJuU/giphy.gif)
+![](https://media.giphy.com/media/yjos61Qgsy17q/giphy.gif)
 <!--
 **ghostafbr/ghostafbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
