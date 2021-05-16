@@ -7,18 +7,12 @@
   <img src="https://media.giphy.com/media/yjos61Qgsy17q/giphy.gif">
 </p> -->
 
-<div class="row">
-  <div class="col-5">
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghostafbr&show_icons=true&locale=en&layout=compact" alt="ghostafbr" />
-   </div>
-    <div class="col-7">
-      <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostafbr&" alt="ghostafbr" />
-   </div>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghostafbr&show_icons=true&locale=en&layout=compact" alt="ghostafbr" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghostafbr&show_icons=true&locale=en" alt="ghostafbr" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostafbr&" alt="ghostafbr" /></p>
 
-<!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ghostafbr&show_icons=true&locale=en" alt="ghostafbr" /></p> -->
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
