@@ -8,10 +8,10 @@
 </p> -->
 
 <div class="row">
-  <div class="col">
+  <div class="col-5">
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghostafbr&show_icons=true&locale=en&layout=compact" alt="ghostafbr" /></p>
    </div>
-    <div class="col">
+    <div class="col-7">
       <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostafbr&" alt="ghostafbr" /></p>
    </div>
 </div>
