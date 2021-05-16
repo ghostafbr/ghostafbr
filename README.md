@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dqukcyidd/image/upload/v1621125245/gitIntroGifHd_zqjddq.gif">
+  <img src="https://res.cloudinary.com/dqukcyidd/image/upload/v1621125469/ezgif-2-58252afb6b30_yklpva.gif">
 </p>
 
-
+<p align="center">
+  <img src="https://media.giphy.com/media/yjos61Qgsy17q/giphy.gif">
+</p>
 
 <!--
 **ghostafbr/ghostafbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
