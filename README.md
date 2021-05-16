@@ -9,9 +9,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghostafbr&show_icons=true&locale=en&layout=compact" alt="ghostafbr" width="400px" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghostafbr&show_icons=true&locale=en" alt="ghostafbr" width="430px" height="191px"/></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghostafbr&show_icons=true&locale=en" alt="ghostafbr" width="430px" height="191px"/></p> -->
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostafbr&" alt="ghostafbr"/></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostafbr&" alt="ghostafbr" /></p>
 
 <!-- <br/><br/><br/><br/><br/><br/><br/><br/><br/> -->
 
