@@ -1,7 +1,4 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/yjos61Qgsy17q/giphy.gif">
-</p>
-<p align="center">
   <img src="https://res.cloudinary.com/dqukcyidd/image/upload/v1621125245/gitIntroGifHd_zqjddq.gif">
 </p>
 
