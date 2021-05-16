@@ -1,5 +1,5 @@
 <!-- ![](https://github.com/matyo91/matyo91/raw/main/assets/github.gif) -->
-![Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️](https://github.com/ghostafbr/ghostafbr/img/ezgif.gif)
+![](https://github.com/ghostafbr/ghostafbr/raw/master/img/gitIntrobig.gif)
 
 
 
