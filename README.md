@@ -6,18 +6,21 @@
 <!-- <p align="center">
   <img src="https://media.giphy.com/media/yjos61Qgsy17q/giphy.gif">
 </p> -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghostafbr&show_icons=true&locale=en&layout=compact" alt="ghostafbr" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostafbr&" alt="ghostafbr" /></p>
+
+<div class="row">
+  <div class="col">
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghostafbr&show_icons=true&locale=en&layout=compact" alt="ghostafbr" /></p>
+   </div>
+    <div class="col">
+      <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostafbr&" alt="ghostafbr" /></p>
+   </div>
+</div>
+
+
+
 <!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ghostafbr&show_icons=true&locale=en" alt="ghostafbr" /></p> -->
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 ## Links
 <p align="center" >
