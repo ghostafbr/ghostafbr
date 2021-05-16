@@ -1,8 +1,7 @@
-![](https://github.com/matyo91/matyo91/raw/main/assets/github.gif)
-![](https://github.com/ghostafbr/ghostafbr/img/gitIntroGifHd.gif)
-<p align="center">
-  <img src="https://res.cloudinary.com/dqukcyidd/image/upload/v1621125469/ezgif-2-58252afb6b30_yklpva.gif?raw=true" width="200px">
-</p>
+<!-- ![](https://github.com/matyo91/matyo91/raw/main/assets/github.gif) -->
+![](https://github.com/ghostafbr/ghostafbr/img/ezgif.gif)
+
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/yjos61Qgsy17q/giphy.gif">
