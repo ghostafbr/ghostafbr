@@ -6,9 +6,21 @@
 <!-- <p align="center">
   <img src="https://media.giphy.com/media/yjos61Qgsy17q/giphy.gif">
 </p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghostafbr&show_icons=true&locale=en&layout=compact" alt="ghostafbr" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostafbr&" alt="ghostafbr" /></p>
+<!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ghostafbr&show_icons=true&locale=en" alt="ghostafbr" /></p> -->
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## Links
-<p align="center">
+<p align="center" >
   <a href="mailto:andres.fbramirez@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://twitter.com/afbrf"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.instagram.com/ghostafbr/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
