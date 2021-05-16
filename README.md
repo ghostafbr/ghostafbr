@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dqukcyidd/image/upload/v1621125469/ezgif-2-58252afb6b30_yklpva.gif" width="200px">
+  <img src="https://res.cloudinary.com/dqukcyidd/image/upload/v1621125469/ezgif-2-58252afb6b30_yklpva.gif?raw=true" width="200px">
 </p>
 
 <p align="center">
