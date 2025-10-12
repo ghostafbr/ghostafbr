@@ -1,37 +1,36 @@
-<!-- Encabezado animado -->
+<!-- Animated Header -->
 <p align="center">
   <img src="https://github.com/ghostafbr/ghostafbr/raw/master/img/gitIntrobig.gif" alt="Header Animation" width="100%"/>
 </p>
 
-<!-- Presentación -->
-<h2 align="center">👋 ¡Hola, soy Andrés!</h2>
+<h2 align="center">👋 Hey there, I’m Andrés</h2>
 <p align="center">
-  <b>Frontend Engineer | Angular Architect | UX/UI Enthusiast | Maker en Mi Kokoro 🖤</b>
+  <b>Senior Frontend Engineer • Angular Expert • UX/UI Enthusiast</b>
 </p>
 
 <p align="center">
-  Desarrollador web con más de 5 años de experiencia creando interfaces limpias, escalables y con propósito.  
-  Amante del diseño bien hecho, la arquitectura limpia y las soluciones que simplemente *funcionan*.
+  Passionate about building clean, scalable, and elegant web experiences.  
+  I love writing code that feels good to read, looks great to use, and performs even better.
 </p>
 
 ---
 
-### ⚡ Sobre mí
-- 🚀 Frontend Engineer en **Smartlinks (Ultragroup)**  
-- 🧠 Experto en **Angular 15–20**, Signals, Zoneless, Clean Architecture  
-- 🖌️ Apasionado por el **UX/UI, diseño de sistemas y branding digital**  
-- 💡 Fundador de **[Mi Kokoro](https://www.instagram.com/mikokoro.co)** — arte, impresión 3D y grabado láser  
-- 🧰 Stack favorito: `Angular` · `TypeScript` · `Firebase` · `Node` · `Tailwind` · `Jest`
+### ⚡ About Me
+- 🚀 Frontend Engineer with **5+ years of experience** crafting modern web applications  
+- 💡 Specialized in **Angular (15–20)**, Signals, Zoneless, and Clean Architecture  
+- 🧠 Advocate for **SOLID principles**, code readability, and maintainability  
+- 🎨 Focused on **UI/UX excellence**, accessibility, and design systems  
+- 🧰 Favorite stack: `Angular` · `TypeScript` · `Firebase` · `Node.js` · `Tailwind` · `Jest`
 
 ---
 
-### 🧩 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghostafbr&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="400px"/>
 </p>
 
-<!-- Puedes agregar más si quieres -->
-<!-- 
+<!-- Optional: Add more insights if you like -->
+<!--
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghostafbr&theme=radical" alt="GitHub Streak" width="430px"/>
 </p>
@@ -39,7 +38,7 @@
 
 ---
 
-### 🌐 Conecta conmigo
+### 🌐 Connect With Me
 <p align="center">
   <a href="mailto:andres.fbramirez@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -50,14 +49,11 @@
   <a href="https://github.com/ghostafbr" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.instagram.com/mikokoro.co/" target="_blank">
-    <img src="https://img.shields.io/badge/Mi%20Kokoro-B34145?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
 </p>
 
 ---
 
-### 🧠 “El código es arte cuando se escribe con propósito.”
+### 🧠 “Code is art when written with purpose.”
 <p align="center">
-  <i>Diseño, construyo y optimizo experiencias digitales que se sienten tan bien como se ven.</i>
+  <i>I design, build, and optimize digital experiences that feel as good as they look.</i>
 </p>
