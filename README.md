@@ -24,8 +24,8 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
+
+<!-- <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostafbr
     &layout=compact
@@ -36,7 +36,11 @@
     alt="Top Languages"
     width="450"
   />
-</p>
+</p> -->
+### 📊 Top Languages
+![](./profile-summary-card-output/radical/3-stats.svg)
+![](./profile-summary-card-output/radical/4-productive-time.svg)
+![](./profile-summary-card-output/radical/2-most-commit-language.svg)
 
 ---
 
