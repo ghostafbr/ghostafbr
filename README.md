@@ -38,9 +38,14 @@
   />
 </p> -->
 ### 📊 Top Languages
-![](./profile-summary-card-output/radical/3-stats.svg)
-![](./profile-summary-card-output/radical/4-productive-time.svg)
-![](./profile-summary-card-output/radical/2-most-commit-language.svg)
+### 📊 GitHub Cards
+
+<p align="center">
+  <img src="./profile-summary-card-output/radical/3-stats.svg" alt="Stats" width="32%" />
+  <img src="./profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time" width="32%" />
+  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top Languages" width="32%" />
+</p>
+
 
 ---
 
