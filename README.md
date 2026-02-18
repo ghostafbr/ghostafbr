@@ -26,15 +26,17 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghostafbr&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="400px"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostafbr
+    &layout=compact
+    &langs_count=8
+    &theme=radical
+    &bg_color=0d1117
+    &hide_border=true"
+    alt="Top Languages"
+    width="450"
+  />
 </p>
-
-<!-- Optional: Add more insights if you like -->
-<!--
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghostafbr&theme=radical" alt="GitHub Streak" width="430px"/>
-</p>
--->
 
 ---
 
